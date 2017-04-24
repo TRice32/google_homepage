@@ -1,0 +1,171 @@
+.user_options {
+	float: right;
+	display: inline-block;
+	margin-left: -300px;
+	background-color: none;
+}
+
+
+#btn_gml {
+	padding: 15px;
+	margin-right: 5px;
+}
+
+#btn_imgs {
+	padding: 15px;
+	margin-right: 5px;
+
+}
+
+#btn_apps {
+
+	padding: 15px;
+	margin-right: 5px;
+
+}
+
+#btn_signin {
+	padding: 15px;
+	margin-right: 5px;
+	background-color: #0066ff;
+	color: white;
+	border-radius: 4px;
+
+}
+
+.main_image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 270px;
+	height: 92px;
+	padding-top: 190px;
+	padding-bottom: 60px;
+	margin-bottom: -20px;
+	/*float: right;*/
+}
+
+#search_input {
+	display: block;
+	text-align: left;
+	padding: 10px 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 38%;
+	height: 20px;
+	box-shadow: 1px 1px 10px 1px #f2f2f2;
+	border: .5px solid #d9d9d9;
+}
+
+.search_buttons{
+	
+	font-weight: bold;
+	font-color: #bfbfbf;
+	width: 400px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 20px 0 20px 0;
+	margin-top: 20px;
+}
+
+#btn_gs {
+	display: inline-block;
+	margin: 10px 5px;
+	padding: 10px 28px;
+	background-color: #f2f2f2;
+	font-weight: bold;
+	border-radius: 2px;
+
+}
+
+#btn_gs:hover {
+	color: black;
+	border: 1px solid #a6a6a6;
+	
+
+}
+
+#btn_ifl {
+	display: inline-block;
+	margin: 10px 5px;		
+	padding: 10px 28px;
+	background-color: #f2f2f2;
+	font-weight: bold;
+	border-radius: 2px;
+
+}
+
+#btn_ifl:hover {
+	color: black;
+	border: 1px solid #a6a6a6;
+	
+}
+
+.g_about {
+	
+	width: 99%;
+	position: absolute;
+	bottom: 0;
+	background-color: #f2f2f2;
+	border: .5px solid #d9d9d9;
+	padding-left: 4px;
+}
+
+.right_btns {
+	float: right;
+	padding: 15px 10px;
+}
+
+
+
+.left_btns {
+	float: left;
+	padding: 15px;
+}
+
+#btn_ad:hover, #btn_bus:hover, #btn_abt:hover, #btn_prv:hover, #btn_trm:hover,
+#btn_stn:hover, #btn_gml:hover, #btn_imgs:hover, #btn_apps:hover {
+	text-decoration: underline;
+}
+#btn_ad {
+	margin: 0 20px;
+}
+
+#btn_bus {
+	margin-right: 20px;
+}
+
+#btn_trm {
+	margin-left: 20px;
+}
+
+#btn_stn {
+	margin-left: 20px;
+	
+
+}
+
+input #search {
+	background:url(../images/grid.png) no-repeat center fixed;
+	width: 5px;
+	height: 5px;
+}
+
+/*.search_buttons:hover {
+	color: black;
+	border: solid black #666;
+	box-shadow: 1px 1px 3px 1px #f2f2f2;
+
+}*/
+
+input {
+	font-size: 12px;
+	color: #595959;
+	border: none;
+	background: none;
+}
+
+*/*{
+	border: 1px dashed #0000ff;
+}

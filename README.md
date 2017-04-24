@@ -1,0 +1,1 @@
+This is a project designed at replicating the Google Homepage. I'm currently step 4 into this project, basically setting up repositories on my local network and on github. I found my recently acquired skills of the command line have helped me to do this quickly and succinctly.
